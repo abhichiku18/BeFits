@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:gravity="center"
+    tools:context=".WaterTrackerActivity">
+
+    <TextView
+        android:id="@+id/tvWaterCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Glasses: 0"
+        android:textSize="24sp"
+        android:layout_marginBottom="16dp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnAddWater"
+        android:layout_width="179dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:text="Add a Glass" />
+</LinearLayout>
