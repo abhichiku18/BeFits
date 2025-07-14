@@ -1,4 +1,9 @@
 # 📱 BeFits – Fitness & Health App
+![Kotlin](https://img.shields.io/badge/Made%20with-Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=for-the-badge&logo=android&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg?style=for-the-badge)
+
 
 BeFits is a simple yet modern fitness and health Android application built with **Kotlin**.  
 It helps users track BMI, create personalized exercise schedules, view diet plans, and more — all wrapped in a clean, user-friendly UI.
